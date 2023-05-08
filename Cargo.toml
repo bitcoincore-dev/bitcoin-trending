@@ -1,9 +1,9 @@
 [package]
-name = "rust-trending"
+name = "bitcoin-trending"
 version = "0.4.0"
-authors = ["Kangwook Lee <pbzweihander@gmail.com>"]
+authors = ["BitcoinCore.dev <admin@bitcoincore.dev>"]
 edition = "2018"
-repository = "https://github.com/pbzweihander/rust-trending"
+repository = "https://github.com/bitcoincore-dev/bitcoin-trending"
 readme = "README.md"
 license = "MIT"
 
